@@ -18,6 +18,8 @@ Changelog
   :class:`~cryptography.hazmat.primitives.interfaces.CMACContext`.
 * Added support for encoding and decoding :rfc:`6979` signatures in
   :doc:`/hazmat/primitives/asymmetric/utils`.
+* Added initial support for X.509 certificate parsing. See :doc:`X.509 </x509>`
+  for more information.
 
 0.6.1 - 2014-10-15
 ~~~~~~~~~~~~~~~~~~
